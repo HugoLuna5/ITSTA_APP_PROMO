@@ -102,6 +102,7 @@ public class MainActivity extends AppCompatActivity implements  CareerAdapter.It
 
     @Override
     public void onItemClick(View view, int position) {
-
+        startActivity(new Intent(this, DetailCareerActivity.class));
+        finish();
     }
 }
