@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ITSTA</string>
+    <string name="career_text_name_example">Ing. Sistemas Computacionales</string>
+
+    <string name="chat">Chat</string>
+    <string name="info">Requisitos</string>
+
+    <string-array name="careers_name">
+        <item>Ing. en Agronomía</item>
+        <item>Ing Ambiental</item>
+        <item>Contador Público</item>
+        <item>Ing. Electrónica</item>
+        <item>Ing. Industrial</item>
+        <item>Ing. en Gestión Empresarial</item>
+        <item>Ing. Mecatrónica</item>
+        <item>Ing. Petrolera</item>
+        <item>Ing. en Sistemas Computacionales</item>
+
+    </string-array>
+
+    <string-array name="careers_about">
+        <item>Es un profesionista con capacidad de manejo, administración de sistemas de producción agrícola y pecuarios; que posee conocimientos, habilidades y destrezas para elaborar, ejecutar, evaluar proyectos productivos del área agropecuaria y el desarrollo rural. Comprometido fuertemente con el uso adecuado de los recursos naturales, promueve la sustentabilidad de los sistemas productivos y ecológicos, contribuyendo con ello, al cuidado, preservación del medio ambiente</item>
+        <item>Es un profesional multidisciplinario que promueve el aprovechamiento sustentable de los recursos naturales de acuerdo a las necesidades de la región, mediante instrumentos de educación ambiental (concientización, sensibilización y comunicación) y la legislación ambiental aplicable. Así también, elabora, implementa y mantiene Sistemas de Gestión Ambiental en instituciones del sector público y privado.</item>
+        <item>El egresado de la carrera de Contador Público son profesionales competitivos, capaces de diseñar, establecer, controlar y evaluar sistemas de información financiera, fiscal y administrativa, para la toma de decisiones de las entidades económicas nacionales e internacionales, con una actitud ética, crítica emprendedora y de liderazgo.</item>
+        <item>La Ingeniería Electrónica está dedicada al estudio de dispositivos, circuitos y sistemas electrónicos, incluyendo su análisis, diseño, desarrollo y operación, así como el estudio de los principios en los que se basan. Estos dispositivos, circuitos y sistemas se pueden utilizar en una amplia gama de aplicaciones, que incluyen, entre otros, sistemas digitales, sistemas de comunicación, sistemas de automatización y control, sistemas de transporte y numerosos aparatos personales</item>
+        <item>Es un profesional con base sólida en la optimización de recursos, (personas, maquinaria, materiales, información, energía, dinero y tecnología), de una organización para la fabricación de productos o la prestación de servicios. Diseña, mejora, controla procesos y sistemas sustentables integrados por personas, materiales, información, equipos, energía y capital.</item>
+        <item>La Ingeniería en Gestión Empresarial es una carrera interdisciplinaria donde aplica conocimientos científicos, tecnológicos y empresariales. La ingeniaría en Gestión Empresarial se ocupa de la optimización del uso recursos empresariales, así como el manejo y la gestión óptima de los sistemas organizacionales y de servicios; evalúa los sistemas integrales aplicados en el campo de producción, equipamiento, proyectos, materiales y procesos, con la finalidad de obtener productos de alta calidad y/o servicios útiles que satisfagan a la sociedad y con alta consideración al medio ambiente.</item>
+        <item>Un Ingeniero en Mecatrónica es un profesional con amplio conocimiento teórico, práctico, multidisciplinario capaz de integrar, desarrollar sistemas automatizados y/o autónomos que involucren tecnologías de varios campos de la ingeniería. Este especialista entiende sobre el funcionamiento de los componentes mecánicos eléctricos, electrónicos y computacionales de los procesos industriales, tiene como referencia el desarrollo sostenible. </item>
+        <item>Es un profesionista integral con capacidad de planear, diseñar y aplicar técnicas de exploración, explotación y producción de hidrocarburos, así como pozos geotérmicos y acuíferos, de manera sustentable y con responsabilidad social. Los ingenieros petroleros están comprometidos a aprovechar de manera sustentable los recursos naturales, atendiendo la preservación del medio ambiente</item>
+        <item>El Ingeniero en Sistemas Computacionales será capaz de diseñar, desarrollar, implementar y mantener actualizadas las infraestructuras de cómputo y comunicación, desarrollando sistemas de información empresarial. Además, permite desarrollar su actividad profesional en diferentes áreas de una organización</item>
+    </string-array>
+
+    <string-array name="careers_activity">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="careers_field">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="careers_why">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>
